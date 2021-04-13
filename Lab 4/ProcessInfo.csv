@@ -1,4 +1,3 @@
-#TYPE System.Management.Automation.PSCustomObject
 "ID","ProcessName","Ws","Path","UserName","Time","Cpu"
 "328","csrss","3928064",,,"13.04.2021 20:01:05","0,3125"
 "396","csrss","20877312",,,"13.04.2021 20:01:05","11,65625"
